@@ -188,10 +188,10 @@ When setting 'useFmtOnly' property to 'true' for establishing a connection or cr
 
 | Topic | Link to File |
 | :---- | :------------- |
-| Coding Guidelines | [coding-guidelines.md](/coding-guidelines.md) |
+| Coding Guidelines | [Coding_Guidelines.md](/Coding_Guidelines.md) |
 | Best Practices | [coding-best-practices.md](/coding-best-practices.md) |
 | Review Process | [review-process.md](/review-process.md) |
-| Security Guidelines | [security.md](/security.md) |
+| Security Guidelines | [SECURITY.md](/SECURITY.md) |
 | Changelog | [CHANGELOG.md](CHANGELOG.md) |
 | Code of Conduct | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) |
 

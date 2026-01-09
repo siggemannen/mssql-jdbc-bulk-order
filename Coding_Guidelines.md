@@ -9,7 +9,7 @@ The purpose of the Java Coding Standards is to create a collaboration baseline. 
 
 ## 1. General
 
-All **changed code**, must obey these *coding standards*. As we have huge legacy code we will have code which defers Coding Standards. Eclipse code formatter [mssql-jdbc_formatter.xml](mssql-jdbc_formatter.xml) must be used to format the **changed code**, except for [enum types](#EnumSpec).
+All **changed code**, must obey these *coding standards*. As we have huge legacy code we will have code which defers Coding Standards. Eclipse code formatter [mssql-jdbc_formatter.xml](mssql-jdbc_formatter.xml) must be used to format the **changed code**, except for [enum types](#5-1-enums).
 
 ## 2. Comments
 
@@ -215,8 +215,8 @@ List people = Arrays.asList("you", "me");
 
 Consider the use of common design patterns.
 
-### 5.1. Enums <a name="EnumSpec"></a>
-
+### 5.1. Enums
+<a name="EnumSpec"></a>
 Constrain arguments by using type safe enumerations.
 
 **Correct:**
